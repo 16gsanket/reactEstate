@@ -2,6 +2,9 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+
+https://www.figma.com/design/rpiqHBQsyE5fQudIpWHKbh/Real-Scout---Real-Estate-App?node-id=2-2&t=pOsR4BdpNUzfj58e-1
+
 ## Get started
 
 1. Install dependencies
@@ -14,6 +17,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
     npx expo start
+   ```
+
+   ```bash
+      to restart the project, run:
+      npm run reset-project
    ```
 
 In the output, you'll find options to open the app in a
